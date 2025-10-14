@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+EvoldOfficial;System+Information+Student;Green+IT+Enthusiast;Future+System+Analyst)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm EvoldOfficial  
 
 💻 I’m a **System Information Student** passionate about **Green IT**, **Web Development**, and **System Analysis**.  
