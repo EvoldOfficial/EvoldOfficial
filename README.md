@@ -25,3 +25,16 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EvoldOfficial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/EvoldOfficial)
+
+---
+
+### 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=EvoldOfficial&theme=darkhub&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 GitHub Stats & Languages
+![EvoldOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvoldOfficial&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvoldOfficial&layout=compact&theme=tokyonight)
+
+### 🔥 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EvoldOfficial&theme=github-dark)
+
