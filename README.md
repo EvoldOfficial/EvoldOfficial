@@ -1,30 +1,28 @@
-# 👋 Hi, I'm Edgar
+# 🌿 EvoldOfficial  
 
-💻 Information Systems Student | 🌱 Interested in System Analysis & Web Development  
-📍 Based in Singaraja, Bali  
+**System Information Student | Green IT Enthusiast | Future System Analyst**  
 
----
-
-### 💡 About Me
-- 🎓 Currently learning Database Design, Software Engineering, and Networking  
-- 🌿 Passionate about Green IT and sustainable technology  
-- 🚀 Working on projects related to web dashboards and financial tracking apps  
+I’m passionate about building sustainable, efficient, and smart systems through technology.  
+Currently exploring **Green IT**, **Web Development**, and **System Analysis**.  
 
 ---
 
-### 🛠️ Tech Stack
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`  
-`Python` `Git` `Linux`
+### 🧠 Skills
+`HTML` `CSS` `JavaScript` `Python` `MySQL` `Linux`  
 
 ---
 
-### 📈 GitHub Stats
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true)
+### 🚀 Projects
+- 🌞 **Solar Energy Dashboard** – Web-based system to monitor household solar energy usage.  
+- 💬 **Finance Chatbot** – AI-powered assistant for managing personal expenses.  
 
 ---
 
-### 🌐 Find Me
-[LinkedIn](https://linkedin.com/) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:youremail@example.com)
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=EvoldOfficial&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvoldOfficial&layout=compact&theme=transparent&hide_border=true)
 
 ---
-🧭 “Keep learning, keep building.”
+
+### 🌐 Connect
+[LinkedIn](https://linkedin.com/in/EvoldOfficial) · [Instagram](https://instagram.com/EvoldOfficial)
