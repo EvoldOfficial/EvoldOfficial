@@ -8,7 +8,7 @@ Currently exploring **Green IT**, **Web Development**, and **System Analysis**.
 ---
 
 ### 🧠 Skills
-`HTML` `CSS` `JavaScript` `Python` `MySQL` `Linux`  
+`HTML` `CSS` `JavaScript` `Python` `MySQL` `php` 'java'
 
 ---
 
